@@ -1,0 +1,159 @@
+{
+  "introduction": {
+    "title": "Einleitung",
+    "text": {
+      "intro": "In unserer Projektarbeit zeigen wir acht besondere Orte in Basel, die wir selbst besucht und bewertet haben.",
+      "outro": "Jeder Ort enthält Bilder, Standort auf der Karte und eine kurze Beschreibung. Einige Orte sind für den Winter besonders geeignet, andere kann man das ganze Jahr besuchen. So entsteht ein persönlicher Stadtguide mit unseren Lieblingsorten."
+    }
+  },
+  "topics": [
+    {
+      "title": "Kunsteisbahn Margarethen",
+      "text": {
+        "intro": "Die Kunsteisbahn Margarethen gehört für uns ganz klar zu den winterlichen Highlights in Basel. Ein Besuch dort ist ein absolutes Must-do. Ob mit der Familie, mit dem Partner oder auch alleine: Hier kann jeder eine tolle Zeit auf dem Eis verbringen und besondere Momente erleben. Die Atmosphäre ist einzigartig und macht das Schlittschuhlaufen zu einem unvergesslichen Erlebnis. Wer in Basel etwas Aktives und gleichzeitig Stimmungsvolles unternehmen möchte, sollte die Kunsteisbahn Margarethen unbedingt besuchen. Ein besonderes Highlight ist die Eisdisco, die manchmal am Samstagabend stattfindet.",
+        "bullets": [
+          "__Preis:__ Eintritt 3.- bis 8.- (Schlittschuhmiete: 5.-)",
+          "__Vorteile:__ Café/Restaurant",
+          "__Nachteile:__ Zu bestimmten Zeiten überfüllt - ein Besuch am Vormittag lohnt sich!",
+          "__Ort:__ Margarethenpark 10, 4053 Basel",
+          "__Öffnungszeiten:__ https://www.bs.ch/themen/kultur-sport-und-freizeit/baeder-kunsteisbahnen-sportanlagen-und-raeume/kunsteisbahnen/kunsteisbahn-margarethen#saison-und-oeffnungszeiten"
+        ]
+      },
+      "location": { "lat": 47.54086, "lng": 7.58605 },
+      "images": [
+        { "src": "content/images/1A.JPEG", "alt": "Kunschti Margarethen in Basel" },
+        { "src": "content/images/1B.JPEG", "alt": "Eisfläche der Kunschti Margarethen" }
+      ]
+    },
+    {
+      "title": "Markthalle",
+      "text": {
+        "intro": "Hier werden Spezialitäten aus verschiedensten Ländern frisch für euch zubereitet und angeboten. Von asiatischen Gerichten über orientalische Küche bis hin zu europäischen Klassikern findet in der Markthalle jeder etwas nach seinem Geschmack. Die lebendige Atmosphäre, die Vielfalt an Ständen und die internationalen Aromen machen die Markthalle zu einem perfekten Ort, um neue Geschmäcker zu entdecken und gemeinsam gutes Essen zu geniessen.",
+        "bullets": [
+          "__Preis:__ Je nach Gericht bis zu 20.-",
+          "__Vorteile:__ Viele Küchen, schönes Gebäude, sehr leckeres Essen",
+          "__Nachteile:__ Teuer",
+          "__Ort:__ Steinentorberg 20, 4051 Basel",
+          "__Öffnungszeiten:__ https://markthallebasel.ch"
+        ]
+      },
+      "location": { "lat": 47.5484, "lng": 7.5894 },
+      "images": [
+        { "src": "content/images/2A.JPEG", "alt": "Markthalle Basel von außen" },
+        { "src": "content/images/2B.JPEG", "alt": "Essensstände in der Markthalle" },
+        { "src": "content/images/2C.JPEG", "alt": "Weitere Ansicht der Markthalle" }
+      ]
+    },
+    {
+      "title": "Münsterkirche, Münsterplatz und Aussichtsplatform Pfalz",
+      "text": {
+        "intro": "Die Münsterkirche gehört neben dem Münsterplatz und der Pfalz zu den schönsten historischen Orten in der Basler Innenstadt. Das beeindruckende Gebäude mit seiner langen Geschichte prägt das Stadtbild und ist eines der bekanntesten Wahrzeichen Basels. Von hier aus hat man zudem eine wunderschöne Aussicht über den Rhein und Teile der Stadt. Ein Besuch beim Basler Münster lohnt sich besonders für alle, die Architektur, Geschichte und einzigartige Ausblicke schätzen.",
+        "bullets": [
+          "__Preis:__ Kostenlos (Aufstieg Münsterturm: 5.-)",
+          "__Vorteile:__ Kostenlos, historisch, Aussicht über Basel",
+          "__Nachteile:__ öffnet spät",
+          "__Ort:__ Münsterplatz 9, 4051 Basel",
+          "__Öffnungszeiten:__ https://www.baslermuenster.ch/infos-kontakt/oeffnungszeiten"
+        ]
+      },
+      "location": { "lat": 47.5567, "lng": 7.5924 },
+      "images": [
+        { "src": "content/images/3A.JPEG", "alt": "Basler Münsterkirche" },
+        { "src": "content/images/3B.JPEG", "alt": "Aussichtspunkt beim Münster" },
+        { "src": "content/images/3C.JPEG", "alt": "Weitere Ansicht beim Münster" }
+      ]
+    },
+    {
+      "title": "Münsterfähre Leu",
+      "text": {
+        "intro": "Die Münsterfähre verbindet Kleinbasel mit Grossbasel und gehört zu den besonderen Erlebnissen der Stadt. Sie bringt dich in kurzer Zeit über den Rhein, wobei die Strömung des Flusses für den Antrieb genutzt wird, und bietet dabei eine kleine, aber spannende Fahrt auf dem Wasser. Während der Überfahrt kannst du die schöne Aussicht auf die Stadt und den Fluss geniessen. Abgesehen von der Münsterfähre gibt es noch drei weitere Fähren über den Rhein.",
+        "bullets": [
+          "__Preis:__ 2.- pro Person",
+          "__Vorteile:__ Günstig, nicht überfüllt, einmalige Fahrt",
+          "__Nachteile:__ /",
+          "__Ort:__ Fähribödeli, 4051 Basel",
+          "__Öffnungszeiten:__ https://www.leu-faehri.ch"
+        ]
+      },
+      "location": { "lat": 47.5579, "lng": 7.5928 },
+      "images": [
+        { "src": "content/images/4A.JPEG", "alt": "Basler Fähre auf dem Rhein" },
+        { "src": "content/images/4B.JPEG", "alt": "Anlegestelle einer Basler Fähre" }
+      ]
+    },
+    {
+      "title": "Fondation Beyeler",
+      "text": {
+        "intro": "Die Fondation Beyeler in Riehen gehört zu den berühmtesten Kunstmuseen der Welt und zieht jedes Jahr zahlreiche Besucher aus aller Welt an. Hier erhältst du spannende Einblicke in die Werke nationaler und internationaler Künstler. Die beeindruckende Sammlung und die wechselnden Ausstellungen machen das Museum zu einem besonderen Ort für Kunstliebhaber. Ein Besuch ist eine ideale Gelegenheit, Kunst, Kultur und Geschichte an einem Ort zu erleben. Das Museum ist ausserdem von einem schönen Garten umgeben und ein Café lädt zum Verweilen ein.",
+        "bullets": [
+          "__Preis:__ Bis 25 Jahre kostenlos, Erwachsene 25.-",
+          "__Vorteile:__ Einmalige Kunstwerke",
+          "__Nachteile:__ Bei grossen Ausstellungen muss ein Timeslot im Voraus gebucht werden",
+          "__Ort:__ Baselstrasse 10, 4125 Riehen",
+          "__Öffnungszeiten:__ https://www.fondationbeyeler.ch"
+        ]
+      },
+      "location": { "lat": 47.5874, "lng": 7.6493 },
+      "images": [
+        { "src": "content/images/5A.JPEG", "alt": "Fondation Beyeler Gebäude" },
+        { "src": "content/images/5B.JPEG", "alt": "Umgebung der Fondation Beyeler" }
+      ]
+    },
+    {
+      "title": "Weihnachtsmarkt Barfüsserplatz",
+      "text": {
+        "intro": "Zwischen den liebevoll geschmückten Ständen des Basler Weihnachtsmarkts kannst du zahlreiche Weihnachtsleckereien entdecken und einen warmen Glühwein trinken. Gemeinsam mit Familie, Freunden oder deinem Partner wird der Besuch zu einem gemütlichen und unvergesslichen Erlebnis. Der Basler Weihnachtsmarkt zählt zu den schönsten und grössten der Schweiz.",
+        "bullets": [
+          "__Preis:__ Je nach Stand",
+          "__Vorteile:__ Viele Stände, schöne Atmosphäre",
+          "__Nachteile:__ Teuer",
+          "__Ort:__ Barfüsserplatz, 4051 Basel",
+          "__Öffnungszeiten:__ https://www.basel.com/de/veranstaltungen/weihnachten/weihnachtsmarkt"
+        ]
+      },
+      "location": { "lat": 47.5541, "lng": 7.5881 },
+      "images": [
+        { "src": "content/images/6A.JPEG", "alt": "Weihnachtsmarkt am Barfüsserplatz" },
+        { "src": "content/images/6B.JPEG", "alt": "Beleuchtete Stände am Weihnachtsmarkt" },
+        { "src": "content/images/6C.JPEG", "alt": "Weitere Stimmung am Weihnachtsmarkt" }
+      ]
+    },
+    {
+      "title": "Rheinspaziergang",
+      "text": {
+        "intro": "Ein Spaziergang entlang des Rheins ist eine ruhige und angenehme Art, die besondere Atmosphäre der Stadt zu geniessen. Hier gibt es immer etwas zu sehen, und entlang des Rheins auf Kleinbasler Seite gibt es mehrere Buvetten mit Getränken und Snacks.",
+        "bullets": [
+          "__Preis:__ Kostenlos",
+          "__Vorteile:__ Aussicht auf die andere Stadtseite",
+          "__Nachteile:__ /",
+          "__Ort:__ Kleinbasel Rheinufer",
+          "__Öffnungszeiten:__ /"
+        ]
+      },
+      "location": { "lat": 47.5626, "lng": 7.5937 },
+      "images": [
+        { "src": "content/images/7A.JPEG", "alt": "Rheinspaziergang in Kleinbasel" },
+        { "src": "content/images/7B.JPEG", "alt": "Blick vom Kleinbasler Rheinufer" },
+        { "src": "content/images/7C.JPEG", "alt": "Weitere Ansicht am Rheinspaziergang" }
+      ]
+    },
+    {
+      "title": "Lange Erlen",
+      "text": {
+        "intro": "Die Lange Erlen sind ein einzigartiger, grüner Park in Basel. Mit viel Natur, Spielplätzen und Tieren bietet dieser Ort zahlreiche Möglichkeiten zum Entdecken und Entspannen. Insbesondere für Familien mit Kindern ist der Tierpark ein Erlebnis.",
+        "bullets": [
+          "__Preis:__ Kostenlos",
+          "__Vorteile:__ Café, grosser Spielplatz",
+          "__Nachteile:__ Tiere in Winterstarre",
+          "__Ort:__ Erlenparkweg 110, 4056 Basel",
+          "__Öffnungszeiten:__ https://www.erlen-verein.ch"
+        ]
+      },
+      "location": { "lat": 47.5807, "lng": 7.6199 },
+      "images": [
+        { "src": "content/images/8A.JPEG", "alt": "Naturgebiet Lange Erlen" },
+        { "src": "content/images/8B.JPEG", "alt": "Spazierweg in Lange Erlen" }
+      ]
+    }
+  ]
+}
